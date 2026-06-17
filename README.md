@@ -20,7 +20,7 @@ Pygame
 
 🚀 Installation
 1. Clone the Repository
-git clone https://github.com/yourusername/snake-game.git
+git clone repo
 cd snake-game
 2. Install Dependencies
 pip install pygame
